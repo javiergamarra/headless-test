@@ -1,0 +1,7 @@
+apiDir: "../headless-test-api/src/main/java"
+apiPackagePath: "com.liferay.headless.test"
+application:
+    baseURI: "/headless-test"
+    className: "HeadlessTestApplication"
+    name: "Liferay.Headless.Test"
+author: "Javier Gamarra"
